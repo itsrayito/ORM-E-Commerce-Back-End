@@ -37,7 +37,7 @@ Product.init(
       },
     },
     category_id: {
-      type: DataTypes.INTEGER,
+      type: DataTypes.DECIMAL,
       references: {
           model: Category,
           key: 'id'
@@ -47,7 +47,7 @@ Product.init(
   },
   {
     sequelize,
-    timestamps: false,
+    timestamps: true,
     freezeTableName: true,
     underscored: true,
     modelName: 'product',
