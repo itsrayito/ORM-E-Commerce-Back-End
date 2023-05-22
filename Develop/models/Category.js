@@ -9,20 +9,20 @@ Category.init(
     // define columns
     id: {
       type: DataTypes.DECIMAL,
-      allowNull: false,
-      autoIncrement: true,
-      primaryKey: true,
+      allowNull: true,
+      autoIncrement: false,
+      primaryKey: false,
 
     },
     category_name: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: true,
     }
   },
   {
     sequelize,
     timestamps: false,
-    freezeTableName: true,
+    freezeTableName: false,
     underscored: true,
     modelName: 'category',
   }
