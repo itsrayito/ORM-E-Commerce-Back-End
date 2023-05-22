@@ -13,19 +13,19 @@ Product.init(
     // define columns
     id: {
       type: DataTypes.INTEGER,
-      allowNull: false,
-      primaryKey: true,
-      autoIncrement: true,
+      allowNull: true,
+      primaryKey: false,
+      autoIncrement: false,
     },
     product_name: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: true,
     },
     price: {
       type: DataTypes.DECIMAL,
-      allowNull: false,
+      allowNull: true,
       validate: {
-        isDecimal: true,
+        isDecimal: false,
       },
     },
     stock: {
