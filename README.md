@@ -43,7 +43,8 @@ You can also get a hold of me through my [GitHub](https://github.com/itsrayito) 
 
 # Credits
 This application was made entirely by Rayito Aguirre <br><br>
-Lecture videos, class sessions, and helpful websites on ORM provided by Rice University Coding Bootcamp instructors in partnership with edX.<br>
+Lecture videos, class sessions, and helpful websites on ORM provided by Rice University Coding Bootcamp instructors in partnership with edX.<br><br>
+Starter code was made possible by [Xander Rapstine](https://github.com/Xandromus) & [George](https://github.com/Georgeyoo) and provided to us by Rice University to clone.
 
 # Video-Tutorial
 Link Below <br>
