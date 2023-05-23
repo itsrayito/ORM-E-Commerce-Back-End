@@ -25,7 +25,8 @@ The user then has to install and run the following dependencies: <br><br>
 The user will then proceed to type in the terminal `mysql -u root -p` and this will connect to their database<br>
 The user will then run `source schema.sql`<br>
 The user will then quit MySQL and run the following command to view the files, `npm run seed`<br>
-The user will then run `npm start`
+The user will then run `npm start`<br>
+After the user has performed all steps, they will then head to Insomnia to test out their application as shown in the video in the Video-Tutorial section.
 
 # Screenshot
 ![](Assets/insomnia_screenshot.png)
