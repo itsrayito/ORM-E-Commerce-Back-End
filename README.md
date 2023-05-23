@@ -45,7 +45,8 @@ This application was made entirely by Rayito Aguirre <br><br>
 Lecture videos, class sessions, and helpful websites on ORM provided by Rice University Coding Bootcamp instructors in partnership with edX.<br>
 
 # Video-Tutorial
-
+Link Below <br>
+https://drive.google.com/file/d/1Gt9WBWgtnttVvPhgjXPFCRcOeKRjgkWr/view?usp=sharing
 
 
 
